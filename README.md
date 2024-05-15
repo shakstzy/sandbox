@@ -8,3 +8,4 @@ Random experiments. Most are abandoned. Don't judge.
 - `ws-chat` — websocket chat server (javascript)
 - `cli-todo` — minimal cli todo (rust)
 - `markov-text` — markov chain text generator (python)
+- `ml-classifier` — simple sklearn classifier (python)
