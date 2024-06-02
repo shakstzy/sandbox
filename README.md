@@ -11,3 +11,4 @@ Random experiments. Most are abandoned. Don't judge.
 - `ml-classifier` — simple sklearn classifier (python)
 - `ws-rust` — websocket server in rust (rust)
 - `ray-tracer` — weekend ray tracer (rust)
+- `vector-clock` — vector clock implementation (go)
