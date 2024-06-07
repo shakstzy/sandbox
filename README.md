@@ -12,3 +12,4 @@ Random experiments. Most are abandoned. Don't judge.
 - `ws-rust` — websocket server in rust (rust)
 - `ray-tracer` — weekend ray tracer (rust)
 - `vector-clock` — vector clock implementation (go)
+- `http-server-toy` — tiny http server (python)
