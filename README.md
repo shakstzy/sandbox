@@ -13,3 +13,4 @@ Random experiments. Most are abandoned. Don't judge.
 - `ray-tracer` — weekend ray tracer (rust)
 - `vector-clock` — vector clock implementation (go)
 - `http-server-toy` — tiny http server (python)
+- `kv-store` — in-memory KV store (go)
