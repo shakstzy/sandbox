@@ -14,3 +14,4 @@ Random experiments. Most are abandoned. Don't judge.
 - `vector-clock` — vector clock implementation (go)
 - `http-server-toy` — tiny http server (python)
 - `kv-store` — in-memory KV store (go)
+- `dns-resolver` — dns resolver from scratch (go)
