@@ -15,3 +15,4 @@ Random experiments. Most are abandoned. Don't judge.
 - `http-server-toy` — tiny http server (python)
 - `kv-store` — in-memory KV store (go)
 - `dns-resolver` — dns resolver from scratch (go)
+- `json-parser-toy` — toy json parser (go)
