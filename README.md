@@ -16,3 +16,4 @@ Random experiments. Most are abandoned. Don't judge.
 - `kv-store` — in-memory KV store (go)
 - `dns-resolver` — dns resolver from scratch (go)
 - `json-parser-toy` — toy json parser (go)
+- `compiler-toy` — expression compiler (rust)
