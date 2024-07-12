@@ -17,3 +17,4 @@ Random experiments. Most are abandoned. Don't judge.
 - `dns-resolver` — dns resolver from scratch (go)
 - `json-parser-toy` — toy json parser (go)
 - `compiler-toy` — expression compiler (rust)
+- `raylib-game` — small raylib game (c)
