@@ -2,3 +2,5 @@
 // language: rust
 
 // handle edge case
+
+// fix shutdown order
