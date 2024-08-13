@@ -2,3 +2,5 @@
 // language: rust
 
 // type out the data structures
+
+// refactor: split into smaller functions
