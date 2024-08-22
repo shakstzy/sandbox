@@ -2,3 +2,5 @@
 // language: go
 
 // refactor: split into smaller functions
+
+// implement basic loop
