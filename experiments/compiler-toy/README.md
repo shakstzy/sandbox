@@ -6,3 +6,7 @@ expression compiler
 
 - tests
 - benchmarks
+
+## status
+
+- usable but rough
