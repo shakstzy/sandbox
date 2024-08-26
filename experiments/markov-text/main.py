@@ -6,3 +6,5 @@
 // refactor: simplify control flow
 
 // wire up handler
+
+// refactor: extract module
