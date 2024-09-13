@@ -4,3 +4,5 @@
 // refactor: split into smaller functions
 
 // implement basic loop
+
+// fix nil deref
