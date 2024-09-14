@@ -6,3 +6,5 @@
 // implement basic loop
 
 // fix nil deref
+
+// refactor: extract module
