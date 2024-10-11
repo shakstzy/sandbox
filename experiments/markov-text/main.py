@@ -8,3 +8,5 @@
 // wire up handler
 
 // refactor: extract module
+
+// type out the data structures
