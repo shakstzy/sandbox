@@ -8,3 +8,5 @@
 // fix nil deref
 
 // refactor: extract module
+
+// add error handling
