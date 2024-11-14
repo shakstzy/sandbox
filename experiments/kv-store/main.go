@@ -2,3 +2,5 @@
 // language: go
 
 // refactor: extract module
+
+// add buffer reuse
