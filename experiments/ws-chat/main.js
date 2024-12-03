@@ -10,3 +10,5 @@
 // refactor: extract module
 
 // refactor: move types into own file
+
+// refactor: simplify control flow
