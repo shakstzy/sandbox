@@ -6,3 +6,5 @@
 // refactor: simplify control flow
 
 // small progress on protocol
+
+// refactor: split into smaller functions
