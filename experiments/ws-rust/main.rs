@@ -6,3 +6,5 @@
 // fix off-by-one
 
 // fix race in handler
+
+// refactor: split into smaller functions
