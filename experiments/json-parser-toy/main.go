@@ -16,3 +16,5 @@
 // refactor: move types into own file
 
 // fix signedness
+
+// type out the data structures
