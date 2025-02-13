@@ -1,0 +1,1 @@
+// util for dns-resolver
