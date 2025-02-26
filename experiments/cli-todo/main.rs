@@ -12,3 +12,5 @@
 // type out the data structures
 
 // first draft of resolver
+
+// type out the data structures
