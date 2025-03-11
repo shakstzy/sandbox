@@ -20,3 +20,5 @@
 // type out the data structures
 
 // fix shutdown order
+
+// add error handling
