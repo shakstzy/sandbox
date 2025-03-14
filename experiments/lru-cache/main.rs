@@ -12,3 +12,5 @@
 // handle edge case
 
 // refactor: move types into own file
+
+// add error handling
