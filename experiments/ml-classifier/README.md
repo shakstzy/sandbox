@@ -6,3 +6,7 @@ simple sklearn classifier
 
 - tests
 - benchmarks
+
+## notes
+
+- still WIP
