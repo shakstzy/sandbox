@@ -10,3 +10,5 @@
 // add buffer reuse
 
 // type out the data structures
+
+// fix nil deref
