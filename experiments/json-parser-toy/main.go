@@ -22,3 +22,5 @@
 // fix shutdown order
 
 // add error handling
+
+// refactor: move types into own file
