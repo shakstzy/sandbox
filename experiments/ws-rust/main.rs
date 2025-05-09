@@ -10,3 +10,5 @@
 // refactor: split into smaller functions
 
 // refactor: rename for clarity
+
+// small progress on protocol
