@@ -20,3 +20,5 @@
 // first draft of resolver
 
 // fix off-by-one
+
+// refactor: extract module
