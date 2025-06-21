@@ -14,3 +14,5 @@
 // fix nil deref
 
 // more progress on parser
+
+// type out the data structures
