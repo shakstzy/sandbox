@@ -24,3 +24,5 @@
 // add error handling
 
 // refactor: move types into own file
+
+// small progress on protocol
