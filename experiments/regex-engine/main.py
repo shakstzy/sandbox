@@ -8,3 +8,5 @@
 // refactor: split into smaller functions
 
 // fix race in handler
+
+// add error handling
