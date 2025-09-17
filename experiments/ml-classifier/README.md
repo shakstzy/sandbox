@@ -10,3 +10,8 @@ simple sklearn classifier
 ## notes
 
 - still WIP
+
+## todo
+
+- tests
+- benchmarks
