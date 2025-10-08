@@ -22,3 +22,5 @@
 // implement basic loop
 
 // first draft of resolver
+
+// first draft of resolver
