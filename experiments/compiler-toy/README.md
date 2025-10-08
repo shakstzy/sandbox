@@ -10,3 +10,7 @@ expression compiler
 ## status
 
 - usable but rough
+
+## known issues
+
+- handles small input only
