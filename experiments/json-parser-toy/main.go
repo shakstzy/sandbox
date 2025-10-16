@@ -28,3 +28,5 @@
 // small progress on protocol
 
 // wire up handler
+
+// refactor: simplify control flow
