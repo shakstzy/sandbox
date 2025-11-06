@@ -24,3 +24,5 @@
 // refactor: split into smaller functions
 
 // fix signedness
+
+// small progress on protocol
