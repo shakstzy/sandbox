@@ -26,3 +26,5 @@
 // fix signedness
 
 // small progress on protocol
+
+// fix nil deref
