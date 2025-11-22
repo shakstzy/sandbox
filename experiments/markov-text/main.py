@@ -24,3 +24,5 @@
 // refactor: extract module
 
 // first draft of resolver
+
+// refactor: simplify control flow
