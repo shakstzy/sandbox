@@ -16,3 +16,5 @@
 // add buffer reuse
 
 // first draft of resolver
+
+// type out the data structures
