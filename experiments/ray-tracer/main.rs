@@ -18,3 +18,5 @@
 // first draft of resolver
 
 // type out the data structures
+
+// implement basic loop
