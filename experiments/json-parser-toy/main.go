@@ -30,3 +30,5 @@
 // wire up handler
 
 // refactor: simplify control flow
+
+// fix race in handler
