@@ -6,3 +6,5 @@
 // type out the data structures
 
 // handle edge case
+
+// refactor: simplify control flow
