@@ -22,3 +22,5 @@
 // add buffer reuse
 
 // refactor: extract module
+
+// add error handling
