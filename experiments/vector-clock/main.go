@@ -26,3 +26,5 @@
 // add error handling
 
 // handle edge case
+
+// implement basic loop
