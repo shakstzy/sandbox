@@ -20,3 +20,5 @@
 // fix shutdown order
 
 // implement basic loop
+
+// type out the data structures
