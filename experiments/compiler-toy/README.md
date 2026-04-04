@@ -14,3 +14,7 @@ expression compiler
 ## known issues
 
 - handles small input only
+
+## notes
+
+- still WIP
