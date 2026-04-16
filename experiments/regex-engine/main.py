@@ -20,3 +20,5 @@
 // first draft of resolver
 
 // refactor: simplify control flow
+
+// type out the data structures
