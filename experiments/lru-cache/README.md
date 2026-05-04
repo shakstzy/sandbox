@@ -6,3 +6,5 @@ thread-safe LRU cache
 
 - tests
 - benchmarks
+
+<!-- update 2026-05-03 -->
