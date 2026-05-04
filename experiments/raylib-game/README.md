@@ -5,3 +5,5 @@ small raylib game
 ## status
 
 - usable but rough
+
+<!-- note: revisited -->
