@@ -19,3 +19,5 @@ Random experiments. Most are abandoned. Don't judge.
 - `compiler-toy` — expression compiler (rust)
 - `raylib-game` — small raylib game (c)
 - `regex-engine` — tiny regex engine (python)
+
+<!-- note: revisited -->
