@@ -7,3 +7,5 @@ minimal cli todo
 - still WIP
 
 <!-- minor cleanup -->
+
+<!-- note: revisited -->
