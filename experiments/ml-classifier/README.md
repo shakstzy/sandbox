@@ -15,3 +15,5 @@ simple sklearn classifier
 
 - tests
 - benchmarks
+
+<!-- minor cleanup -->
